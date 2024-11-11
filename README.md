@@ -49,12 +49,6 @@ I'm actively looking for new opportunities and collaborations. If you’re inter
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=munashex&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Connect with Me
 
 Feel free to reach out:
