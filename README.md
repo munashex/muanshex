@@ -8,8 +8,8 @@ Welcome to my GitHub profile! I'm a web developer with a passion for creating re
 
 ### Languages & Frameworks
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, GraphQL
-- **Database:** MongoDB, Firebase
+- **Backend:** Node.js, Express, GraphQL, Golang
+- **Database:** MongoDB, Firebase, mySQL, superbase
 
 ### Tools
 - Git, GitHub, Docker, REST APIs, GraphQL
